@@ -1,6 +1,5 @@
 <template>
-  <!-- 전역컴포넌트 RouterView-->
-  <RouterView />
+  <h1>Home</h1>
 </template>
 
 <script>
