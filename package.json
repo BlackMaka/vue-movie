@@ -44,6 +44,7 @@
     "axios": "^0.24.0",
     "bootstrap": "^5.0.0-beta3",
     "vue": "^3.2.19",
-    "vue-router": "^4.0.12"
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
   }
 }
